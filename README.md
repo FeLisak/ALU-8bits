@@ -139,4 +139,4 @@ O desenvolvimento seguiu uma abordagem bottom-up: cada componente mais complexo 
 
 ## Vídeo de Demonstração
 
-Clique [aqui](https://www.youtube.com/watch?v=Mnsq-E2ogyU) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
+Clique [aqui](https://youtu.be/138wBpV3CdY) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
